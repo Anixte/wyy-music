@@ -37,5 +37,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
-<img src="/2cc5ef1b7f450ac6538b411a3ed692a.png"/>
+<img src="2cc5ef1b7f450ac6538b411a3ed692a.png"/>
 
